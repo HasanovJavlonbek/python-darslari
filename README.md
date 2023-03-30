@@ -1,2 +1,1 @@
-# python-darslari
-Ushbu 
+Python  darsl
